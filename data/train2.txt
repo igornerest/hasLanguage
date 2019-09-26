@@ -1,0 +1,26 @@
+pos	eu amo esse sanduíche
+pos	este é um lugar incrível!
+pos	eu me sinto bem com essas cervejas
+pos	este é o meu melhor trabalho
+pos	que visão incrível
+pos esse projeto de paradigmas é muito legal
+pos isso é muito emocionante
+pos amo muito tudo isso
+pos eu adoro comer
+pos hoje eu estou muito feliz
+pos mas que música incrível
+pos nada melhor que estar saudável
+pos o cérebro humano é muito interessante
+neg	eu não gosto deste restaurante
+neg	estou cansado dessas coisas
+neg	não consigo lidar com isso
+neg	ele é meu inimigo jurado!
+neg	meu chefe é horrível
+neg a universidade é muito estressante
+neg vou ficar louco com tudo isso
+neg estou triste. Hoje o dia foi péssimo
+neg simplesmente horrível.
+neg eu odeio todos vocês
+neg essa comida está nojenta
+neg péssimo, simplesmente péssimo. Tente outra vez
+neg é muito ruim ficar horas no trânsito de São Paulo

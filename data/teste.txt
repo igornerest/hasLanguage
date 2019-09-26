@@ -1,0 +1,3 @@
+pos I like this
+pos I love this
+neg I hate this
